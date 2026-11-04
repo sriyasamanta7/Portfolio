@@ -1,0 +1,8 @@
+1. Installed Visual Studio Code and the C/C++ extension.
+2. Installed MSYS2 UCRT64 using MSYS2.
+3. Verified GCC installation using gcc --version and g++ --version.
+4. Created a file named hello.c in my Portfolio building folder.
+5. Compiled the program using gcc hello.c -o hello.exe.
+6. Ran the program using .\hello.exe.
+7. The program successfully displayed Hello World.
+8. I faced an issue where GCC was not initially recognized, but I fixed the GCC path.
